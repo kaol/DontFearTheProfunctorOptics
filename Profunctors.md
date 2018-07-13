@@ -347,7 +347,7 @@ as an exercise.
 We've chosen `DownStar` and `Tagged` because we'll use them in the next part of
 this series. However, you should know that there are other awesome instances for
 profunctors [out
-there](https://ocharles.org.uk/blog/guest-posts/2013-12-22-24-days-of-hackage-profunctors.html).
+there](https://ocharles.org.uk/guest-posts/2013-12-22-24-days-of-hackage-profunctors.html).
 As you see, profunctors also arise everywhere!
 
 NEXT: [Profunctor Optics](ProfunctorOptics.md)
